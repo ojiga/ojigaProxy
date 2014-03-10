@@ -1,4 +1,5 @@
 ojigaProxy
 ==========
 
-proxy parser
+Simple proxy parser.
+Syntax: java -jar ./bin/ojigaProxy.jar
